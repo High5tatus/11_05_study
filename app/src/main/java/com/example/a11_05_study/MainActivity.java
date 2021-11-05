@@ -23,6 +23,8 @@ public class MainActivity extends AppCompatActivity {
         //setContentView(R.layout.ch05_06);
 //        setContentView(R.layout.ch05_07);
         //setContentView(R.layout.ch05_07_1);
+        //setContentView(R.layout.ch05_18);
+        setContentView(R.layout.ch05_19);
 
 /*
         //ch05_08
@@ -51,7 +53,7 @@ public class MainActivity extends AppCompatActivity {
 */
 
         //계산기~~
-
+        /*
         setContentView(R.layout.ch05_14_cal);
         EditText et1, et2;
         Button btnAdd, btnSub, btnMul, btnDiv, btnRe;
@@ -337,6 +339,7 @@ public class MainActivity extends AppCompatActivity {
                     tv2.setText("");
             }
         });
+         */
 
 
     }
